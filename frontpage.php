@@ -34,16 +34,14 @@ Template Name: Front Page
          </div>
          <div id="frontpage_callouts">
             <div id='sponsors-callout'>
-              <h3>2010 Sponsors</h3>
-              <h4>Committers</h4>
-              <ul>
-                <li><a href='http://www.mozilla.com'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/mozilla.170.png' alt='Mozilla' /></a></li>
-              </ul>
+              <h3>2011 Sponsors</h3>
               <h4>Advocates</h4>
               <ul>
-                <li><a href='http://www.facebook.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/facebook.png' alt='Facebook' /></a></li>
-                <li><a href='http://www.google.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/google.png' alt='Google' /></a></li>
-                <li><a href='http://www.rackspacecloud.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/rackspacecloud.png' alt='Rackspace Cloud' /></a></li>
+                <li><a href="http://myemma.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2009/02/emma_logo09.png' alt='emma' /></a></li>
+              </ul>
+              <h4>Citizens</h4>
+              <ul>
+                <li><a href="http://www.puppetlabs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2010/02/puppet.png' alt='Puppet Labs' height="100" /></a></li>
               </ul>
               <h4>Hosting</h4>
               <ul>
