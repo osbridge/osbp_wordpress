@@ -47,7 +47,7 @@ Template Name: Front Page
               <ul>
                 <li><a href='http://networkredux.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/networkredux.png' alt='Network Redux' /></a></li>
               </ul>
-              <a href='/sponsors'>View More Sponsors</a>
+              <a href='/sponsors/2011/'>View More Sponsors</a>
             </div>
          </div>
          <div id="frontpage_content">
