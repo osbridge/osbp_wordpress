@@ -5,7 +5,7 @@ Template Name: Front Page
 ?>
 <?php get_header() ?>
    <div id="frontpage_info">
-      <div class='inner_container'>
+      <div class='inner_container' style="z-index:10">
          <h2>Connecting developers across projects, languages, and backgrounds.</h2>
          <div id="frontpage_sidebar">
             <p id="conference-summary">
@@ -75,7 +75,7 @@ Template Name: Front Page
          </div>
       </div>
    </div>
-   <div class='inner_container'>
+   <div class='inner_container' style="z-index:1">
       <div id="frontpage_blog">
          <h2 id='latest_news_head'>Latest Blog Post <a href='/blog'>View more posts</a></h2>
             
