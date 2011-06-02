@@ -34,7 +34,7 @@ Template Name: Front Page
          </div>
          <div id="frontpage_callouts">
             <div id='sponsors-callout'>
-              <h3>2011 Sponsors</h3>
+              <h3><a href="/sponsors/2011/">2011 Sponsors</a></h3>
               <h4>Advocates</h4>
               <ul>
                 <li><a href="http://myemma.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2009/02/emma_logo09.png' alt='emma' width="170" /></a></li>
