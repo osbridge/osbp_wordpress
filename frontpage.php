@@ -48,6 +48,7 @@ Template Name: Front Page
                 <li><a href="http://www.shopigniter.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/shopigniter.png' alt='ShopIgniter' width="170" /></a></li>
                 <li><a href="http://urbanairship.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/Urban-Airship-Logo+tagline_COLOR.jpg' alt='Urban Airship' width="170" /></a></li>
                 <li><a href="http://pdx.edu/"><img src='http://opensourcebridge.org/wp-content/uploads/2009/03/psulogo_horiz_std.gif' alt='Portland State University' width="170" /></a></li>
+                <li><a href="http://saucelabs.com"><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/SauceLabs-Logo.jpg' alt='Sauce Labs' width="170" /></a></li>
               </ul>
               <h4>Hosting</h4>
               <ul>
