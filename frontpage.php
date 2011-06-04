@@ -41,6 +41,7 @@ Template Name: Front Page
                 <li><a href="http://www.gilt.com"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/Gilt_Groupe.jpg' alt='Gilt Groupe' width="170" /></a></li>
                 <li><a href="http://openstack.org"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/openstack.gif' alt='OpenStack' width="170" /></a></li>
                 <li><a href="http://www.discogs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/discogs.jpg' alt='Discogs' width="170" /></a></li>
+                <li><a href='http://www.google.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/google.png' alt='Google' /></a></li>
               </ul>
               <h4>Citizens</h4>
               <ul>
