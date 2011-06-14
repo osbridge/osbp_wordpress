@@ -35,6 +35,10 @@ Template Name: Front Page
          <div id="frontpage_callouts">
             <div id='sponsors-callout'>
               <h3><a href="/sponsors/2011/">2011 Sponsors</a></h3>
+              <h4>Committer</h4>
+              <ul>
+                <li><a href='http://intel.com'><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/intel_rgb.250.png' alt='intel' width="170" /></a></li>
+              </ul>
               <h4>Advocates</h4>
               <ul>
                 <li><a href='http://www.mozilla.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2010/05/mozilla.jpg' alt='Mozilla' width="170" /></a></li>
@@ -43,6 +47,7 @@ Template Name: Front Page
                 <li><a href="http://openstack.org"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/openstack.gif' alt='OpenStack' width="170" /></a></li>
                 <li><a href="http://www.discogs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/discogs.jpg' alt='Discogs' width="170" /></a></li>
                 <li><a href="http://myemma.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2009/02/emma_logo09.png' alt='emma' width="170" /></a></li>
+                <li><a href='https://www.yammer.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/Yammer.250.png' alt='Yammer' width="170" /></a></li>
               </ul>
               <h4>Citizens</h4>
               <ul>
