@@ -14,10 +14,11 @@ Template Name: Front Page
             <ul class='soc'>
                <li class='pre-bulletted'><a href='http://twitter.com/osbridge' title='@osbridge on twitter' class='twitter chicklet'>Twitter</a></li>
                <li class='pre-bulletted'><a href='http://friendfeed.com/osbridge' title='osbridge on FriendFeed' class='friendfeed chicklet'>FriendFeed</a></li>
-               <li class='pre-bulletted'><a href='http://www.facebook.com/group.php?gid=50942172062' title='Open Source Bridge Facebook Group' class='facebook chicklet'>Facebook</a></li>
+               <li class='pre-bulletted'><a href='http://www.facebook.com/osbridge' title='Open Source Bridge on Facebook' class='facebook chicklet'>Facebook</a></li>
                <li class='pre-bulletted'><a href='http://identi.ca/group/osbridge' title='!osbridge on identi.ca' class='identica chicklet'>identi.ca</a></li>
                <li class='pre-bulletted'><a href='http://www.linkedin.com/groups?home=&amp;gid=1853451' title='Open Source Bridge on LinkedIn' class='linkedin chicklet'>LinkedIn</a></li>
-               <li class='pre-bulletted'><a href='http://dplr.it/osbridge09' class='dopplr chicklet'>Add trip to Dopplr</a></li>
+               <li class='pre-bulletted'><a href='http://lanyrd.com/2011/osbridge/' title='Open Source Bridge on Lanyrd'>Lanyrd</a></li>
+               <!-- <li class='pre-bulletted'><a href='http://dplr.it/osbridge09' class='dopplr chicklet'>Add trip to Dopplr</a></li> -->
             </ul>
             <ul>
                <li class='pre-bulletted'><a href='http://opensourcebridge.org/proposals.atom' class='chicklet rss'>Proposals feed</a></li>
@@ -72,12 +73,21 @@ Template Name: Front Page
                     <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
                </p>
             </div>-->
-            <div id='frontpage_register_callout'>
+            <!--<div id='frontpage_register_callout'>
                <h3>Registration for 2011 is now open!</h3>
                <p>
                     Want to help us plan the 2011 event? <a href='http://groups.google.com/group/osbridge' style='text-decoration: underline; color: #fff;'>Join our planning group!</a>
 
                     <a href='http://osbridge.eventbrite.com/' class='button'>Register Now</a>
+               </p>
+            </div>-->
+            <div id='frontpage_cfp_callout'>
+               <h3>The conference is here!</h3>
+               <p>
+                  Check out the <a href='http://opensourcebridge.org/schedule'>schedule</a>, follow us on <a href="http://twitter.com/osbridge">twitter</a> 
+                  for announcements and updates, and stop by the <a href="http://opensourcebridge.org/2011/wiki/Hacker_Lounge">Hacker Lounge</a>!
+                  
+                  <a href='http://opensourcebridge.org/schedule/' class='button'>View Schedule</a>
                </p>
             </div>
             <?php the_content(); ?>
