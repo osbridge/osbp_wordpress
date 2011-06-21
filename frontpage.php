@@ -84,8 +84,8 @@ Template Name: Front Page
             <div id='frontpage_cfp_callout'>
                <h3>The conference is here!</h3>
                <p>
-                  Check out the <a href='http://opensourcebridge.org/schedule' style="color: #fff">schedule</a>, follow us on <a href="http://twitter.com/osbridge" style="color: #fff">twitter</a> 
-                  for announcements and updates, or stop by the <a href="http://opensourcebridge.org/2011/wiki/Hacker_Lounge" style="color: #fff">Hacker Lounge</a> anytime!
+                  Check out the <a href='http://opensourcebridge.org/schedule' style="color: #fff; text-decoration: underline">schedule</a>, follow us on <a href="http://twitter.com/osbridge" style="color: #fff; text-decoration: underline">twitter</a> 
+                  for announcements and updates, or stop by the <a href="http://opensourcebridge.org/2011/wiki/Hacker_Lounge" style="color: #fff; text-decoration: underline">Hacker Lounge</a> anytime!
                   
                   <a href='http://opensourcebridge.org/schedule/' class='button'>View Schedule</a>
                </p>
