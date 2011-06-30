@@ -98,11 +98,13 @@ Template Name: Front Page
 
             <!-- CONFERENCE IS OVER: -->
             <div id='frontpage_cfp_callout'>
-               <h3>Registration for 2012 is now open!</h3>
-                <p>
-                     Buy your ticket today and save!<br />
+                <h3>Registration for 2012 is now open!</h3>
+                    <p>
+                        Buy your ticket today and save!<br />
 
-                     Want to help us plan the next conference? <a href='http://groups.google.com/group/osbridge' style='text-decoration: underline; color: #fff;'>Join our planning group!</a>
+                        Want to know how 2011 went? Read our <a href="http://opensourcebridge.org/blog/2011/06/wrapping-up-2011/" style="text-decoration: underline; color: #fff;">post-conference update</a><br />
+
+                        Want to help us plan the next conference? <a href='http://groups.google.com/group/osbridge' style="text-decoration: underline; color: #fff;">Join our planning group!</a>
 
                      <a href='http://osb12.eventbrite.com/' class='button'>Register Now</a>
 
