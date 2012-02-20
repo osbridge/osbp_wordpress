@@ -66,14 +66,14 @@ Template Name: Front Page
             </div>
          </div>
          <div id="frontpage_content">
-            <!-- ACCEPTING PROPOSALS:
+            <!-- ACCEPTING PROPOSALS: -->
             <div id='frontpage_cfp_callout'>
                <h3>Call for presentation proposals is open!</h3>
                <p>
                     We are accepting your proposals through March 16th.
                     <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
                </p>
-            </div>-->
+            </div>
             <!--<div id='frontpage_register_callout'>
                <h3>Registration for 2011 is now open!</h3>
                <p>
@@ -97,6 +97,7 @@ Template Name: Front Page
             -->
 
             <!-- CONFERENCE IS OVER: -->
+            <!--
             <div id='frontpage_cfp_callout'>
                 <h3>Registration for 2012 is now open!</h3>
                     <p>
@@ -110,6 +111,7 @@ Template Name: Front Page
 
                </p>
             </div>
+            -->
             <?php the_content(); ?>
          </div>
       </div>
