@@ -74,15 +74,15 @@ Template Name: Front Page
                     <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
                </p>
             </div>
-            <!--<div id='frontpage_register_callout'>
-               <h3>Registration for 2011 is now open!</h3>
+            <div id='frontpage_register_callout'>
+               <h3>Registration for 2012 is now open!</h3>
                <p>
-                    Want to help us plan the 2011 event? <a href='http://groups.google.com/group/osbridge' style='text-decoration: underline; color: #fff;'>Join our planning group!</a>
+                    Tickets are only $225 through April 30th!<br />
+                    Want to help us plan the 2012 event? <a href='http://groups.google.com/group/osbridge' style='text-decoration: underline; color: #fff;'>Join our planning group!</a>
 
-                    <a href='http://osbridge.eventbrite.com/' class='button'>Register Now</a>
+                    <a href='http://osb12.eventbrite.com/' class='button'>Register Now</a>
                </p>
             </div>
-            -->
 
             <!-- CONFERENCE IS HERE:
             <div id='frontpage_cfp_callout'>
