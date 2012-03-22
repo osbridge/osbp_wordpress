@@ -17,7 +17,7 @@ Template Name: Front Page
                <li class='pre-bulletted'><a href='http://www.facebook.com/osbridge' title='Open Source Bridge on Facebook' class='facebook chicklet'>Facebook</a></li>
                <li class='pre-bulletted'><a href='http://identi.ca/group/osbridge' title='!osbridge on identi.ca' class='identica chicklet'>identi.ca</a></li>
                <li class='pre-bulletted'><a href='http://www.linkedin.com/groups?home=&amp;gid=1853451' title='Open Source Bridge on LinkedIn' class='linkedin chicklet'>LinkedIn</a></li>
-               <li class='pre-bulletted'><a href='http://lanyrd.com/2011/osbridge/' title='Open Source Bridge on Lanyrd'>Lanyrd</a></li>
+               <li class='pre-bulletted'><a href='http://lanyrd.com/2012/osbridge/' title='Open Source Bridge on Lanyrd'>Lanyrd</a></li>
                <!-- <li class='pre-bulletted'><a href='http://dplr.it/osbridge09' class='dopplr chicklet'>Add trip to Dopplr</a></li> -->
             </ul>
             <ul>
