@@ -36,6 +36,10 @@ Template Name: Front Page
          <div id="frontpage_callouts">
             <div id='sponsors-callout'>
               <h3><a href="/sponsors/2012/">2012 Sponsors</a></h3>
+              <h4>Committer</h4>
+              <ul>
+                <li><a href='http://intel.com'><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/intel_rgb.250.png' alt='intel' width="170" /></a></li>
+              </ul>
               <h4>Advocates</h4>
               <ul>
                 <li><a href='http://www.google.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/google.png' alt='Google' /></a></li>
