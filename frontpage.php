@@ -45,6 +45,10 @@ Template Name: Front Page
                 <li><a href='http://www.google.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/google.png' alt='Google' /></a></li>
                 <li><a href='http://www.engineyard.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/03/badge-engineyard-sponsored.170.png' alt='Engine Yard' width="170"/></a></li>
               </ul>
+              <h4>Citizens</h4>
+              <ul>
+                <li><a href="http://www.discogs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/discogs.jpg' alt='Discogs' width="170" /></a></li>
+              </ul>
               <h4>Friends</h4>
               <ul>
                 <li><a href='http://www.elevatedcode.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/03/elevatedcode.170.png' alt='Elevated Code' width="170" /></a></li>
