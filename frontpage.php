@@ -47,6 +47,7 @@ Template Name: Front Page
               </ul>
               <h4>Citizens</h4>
               <ul>
+                <li><a href="http://twitter.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/04/twitter.170.png' alt='Twitter' width="170" /></a></li>
                 <li><a href="http://www.discogs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2011/05/discogs.jpg' alt='Discogs' width="170" /></a></li>
               </ul>
               <h4>Friends</h4>
