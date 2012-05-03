@@ -44,6 +44,7 @@ Template Name: Front Page
               <ul>
                 <li><a href='http://www.google.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/google.png' alt='Google' /></a></li>
                 <li><a href='http://www.engineyard.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/03/badge-engineyard-sponsored.170.png' alt='Engine Yard' width="170"/></a></li>
+                <li><a href='http://www.rentrak.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/05/RentrakLogo.170.gif' alt='Rentrak' width="170"/></a></li>
               </ul>
               <h4>Citizens</h4>
               <ul>
