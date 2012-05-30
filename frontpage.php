@@ -56,6 +56,7 @@ Template Name: Front Page
               <h4>Friends</h4>
               <ul>
                 <li><a href='http://www.elevatedcode.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/03/elevatedcode.170.png' alt='Elevated Code' width="170" /></a></li>
+                <li><a href='http://www.thoughtworks.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/05/thoughtworks.170.png' alt='Thoughtworks' width="170" /></a></li>
               </ul>
               <h4>Hosting</h4>
               <ul>
