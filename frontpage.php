@@ -38,7 +38,7 @@ Template Name: Front Page
               <h3><a href="/sponsors/2012/">2012 Sponsors</a></h3>
               <h4>Committer</h4>
               <ul>
-                <li><a href='http://intel.com'><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/intel_rgb.250.png' alt='intel' width="170" /></a></li>
+                <li><a href='https://01.org/'><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/intel_rgb.250.png' alt='intel' width="170" /></a></li>
               </ul>
               <h4>Advocates</h4>
               <ul>
