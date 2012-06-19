@@ -63,6 +63,7 @@ Template Name: Front Page
                 <li><a href='http://www.thoughtworks.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/05/thoughtworks.170.png' alt='Thoughtworks' width="170" /></a></li>
                 <li><a href='http://newrelic.com/about/jobs'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/newrelic.170.png' alt='New Relic' width="170" /></a></li>
                 <li><a href='http://www.bluebox.net/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/bluebox.170.png' alt='Bluebox' width="170" /></a></li>
+                <li><a href="http://urbanairship.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/UrbanAirship.170.png' alt='Urban Airship' width="170" /></a></li>
               </ul>
               <h4>Hosting</h4>
               <ul>
