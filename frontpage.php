@@ -38,12 +38,12 @@ Template Name: Front Page
               <h3><a href="/sponsors/2012/">2012 Sponsors</a></h3>
               <h4>Committer</h4>
               <ul>
-                <li><a href='https://01.org/'><img src='http://opensourcebridge.org/wp-content/uploads/2011/06/intel_rgb.250.png' alt='intel' width="170" /></a></li>
+                <li><a href='https://01.org/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/intel_rgb.170.png' alt='intel' width="170" /></a></li>
               </ul>
               <h4>Advocates</h4>
               <ul>
-                <li><a href='http://www.google.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/google.png' alt='Google' /></a></li>
-                <li><a href='http://www.engineyard.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/03/badge-engineyard-sponsored.170.png' alt='Engine Yard' width="170"/></a></li>
+                <li><a href='http://www.google.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/google.170.png' alt='Google' /></a></li>
+                <li><a href='http://www.engineyard.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/engineyard-sponsored.170.png' alt='Engine Yard' width="170"/></a></li>
                 <li><a href='http://www.rentrak.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/05/RentrakLogo.170.gif' alt='Rentrak' width="170"/></a></li>
               </ul>
               <h4>Unconference</h4>
@@ -52,8 +52,8 @@ Template Name: Front Page
               </ul>
               <h4>Citizens</h4>
               <ul>
-                <li><a href='http://www.mozilla.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2010/05/mozilla.jpg' alt='Mozilla' width="170" /></a></li>
-                <li><a href="http://twitter.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/04/twitter.170.png' alt='Twitter' width="170" /></a></li>
+                <li><a href='http://www.mozilla.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/mozilla.170.png' alt='Mozilla' width="170" /></a></li>
+                <li><a href="http://twitter.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/twitterbird.170.png' alt='Twitter' width="170" /></a></li>
                 <li><a href="http://www.discogs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/discogs.170.png' alt='Discogs' width="170" /></a></li>
                 <li><a href="http://www.gilt.com/careers/tech/category/tech-department/about-tech/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/Gilt.trans_.170.png' alt='Gilt Groupe' width="170" /></a></li>
                 <li><a href="https://www.simple.com/"><img src="http://opensourcebridge.org/wp-content/uploads/2012/06/Simple.170.png" alt="Simple" width="170" /></a></li>
@@ -65,10 +65,11 @@ Template Name: Front Page
                 <li><a href='http://newrelic.com/about/jobs'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/newrelic.170.png' alt='New Relic' width="170" /></a></li>
                 <li><a href='http://www.bluebox.net/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/bluebox.170.png' alt='Bluebox' width="170" /></a></li>
                 <li><a href="http://urbanairship.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/UrbanAirship.170.png' alt='Urban Airship' width="170" /></a></li>
+                <li><a href="http://www.copio.us/"><img src="http://opensourcebridge.org/wp-content/uploads/2012/06/Copious.170.png" alt="Copious" width="170" /></a></li>
               </ul>
               <h4>Hosting</h4>
               <ul>
-                <li><a href='http://networkredux.com/'><img src='<?php bloginfo('template_directory'); ?>/i/sponsors/networkredux.png' alt='Network Redux' /></a></li>
+                <li><a href='http://networkredux.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/networkredux.170.png' alt='Network Redux' /></a></li>
               </ul>
               <a href='/sponsors/2012/'>View More Sponsors</a>
             </div>
