@@ -57,6 +57,7 @@ Template Name: Front Page
                 <li><a href="http://www.discogs.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/discogs.170.png' alt='Discogs' width="170" /></a></li>
                 <li><a href="http://www.gilt.com/careers/tech/category/tech-department/about-tech/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/Gilt.trans_.170.png' alt='Gilt Groupe' width="170" /></a></li>
                 <li><a href="https://www.simple.com/"><img src="http://opensourcebridge.org/wp-content/uploads/2012/06/Simple.170.png" alt="Simple" width="170" /></a></li>
+                <li><a href="http://www.pdc.us/"><img src="http://opensourcebridge.org/wp-content/uploads/2012/06/PDC.170.png" alt="PDC" width="170" /></a></li>
               </ul>
               <h4>Friends</h4>
               <ul>
