@@ -72,6 +72,10 @@ Template Name: Front Page
               <ul>
                 <li><a href='http://networkredux.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/networkredux.170.png' alt='Network Redux' /></a></li>
               </ul>
+              <h4>Food</h4>
+              <ul>
+                <li><a href='http://www.turtlemountain.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/SoDelicious.170.png' alt='So Delicious' /></a></li>
+              </ul>
               <a href='/sponsors/2012/'>View More Sponsors</a>
             </div>
          </div>
