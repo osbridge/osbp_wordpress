@@ -68,6 +68,10 @@ Template Name: Front Page
                 <li><a href="http://urbanairship.com/"><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/UrbanAirship.170.png' alt='Urban Airship' width="170" /></a></li>
                 <li><a href="http://www.copio.us/"><img src="http://opensourcebridge.org/wp-content/uploads/2012/06/Copious.170.png" alt="Copious" width="170" /></a></li>
               </ul>
+              <h4>Keynote Videos</h4>
+              <ul>
+                <li><a href='http://brytcast.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/brytCAST.170.png' alt='BrytCAST' /></a></li>
+              </ul>
               <h4>Hosting</h4>
               <ul>
                 <li><a href='http://networkredux.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/networkredux.170.png' alt='Network Redux' /></a></li>
