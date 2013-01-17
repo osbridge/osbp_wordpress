@@ -85,15 +85,13 @@ Template Name: Front Page
          </div>
          <div id="frontpage_content">
             <!-- ACCEPTING PROPOSALS: -->
-            <!--
             <div id='frontpage_cfp_callout'>
                <h3>Call for presentation proposals is open!</h3>
                <p>
-                    We are accepting your proposals through March 30th.
+                    We are accepting your proposals through March 9th.
                     <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
                </p>
             </div>
-            -->
 
             <!-- CONFERENCE IS HERE:
             <div id='frontpage_cfp_callout'>
