@@ -12,8 +12,10 @@ Template Name: Front Page
                <strong>Open Source Bridge</strong> is a conference for developers working with open source technologies and for people interested in learning the open source way.
             </p>
             <ul class='soc'>
-               <li class='pre-bulletted'><a href='http://twitter.com/osbridge' title='@osbridge on twitter' class='twitter chicklet'>Twitter</a></li>
-               <li class='pre-bulletted'><a href='http://friendfeed.com/osbridge' title='osbridge on FriendFeed' class='friendfeed chicklet'>FriendFeed</a></li>
+               <li class='pre-bulletted'>
+                 <a href="https://twitter.com/osbridge" class="twitter-follow-button" data-show-count="false">Follow @osbridge</a>
+                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+               </li>
                <li class='pre-bulletted'><a href='http://www.facebook.com/osbridge' title='Open Source Bridge on Facebook' class='facebook chicklet'>Facebook</a></li>
                <li class='pre-bulletted'><a href='http://identi.ca/group/osbridge' title='!osbridge on identi.ca' class='identica chicklet'>identi.ca</a></li>
                <li class='pre-bulletted'><a href='http://www.linkedin.com/groups?home=&amp;gid=1853451' title='Open Source Bridge on LinkedIn' class='linkedin chicklet'>LinkedIn</a></li>
