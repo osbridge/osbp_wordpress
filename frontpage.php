@@ -16,7 +16,9 @@ Template Name: Front Page
                  <a href="https://twitter.com/osbridge" class="twitter-follow-button" data-show-count="false">Follow @osbridge</a>
                  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                </li>
-               <li class='pre-bulletted'><a href='http://www.facebook.com/osbridge' title='Open Source Bridge on Facebook' class='facebook chicklet'>Facebook</a></li>
+               <li class='pre-bulletted'>
+                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fosbridge&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+               </li>
                <li class='pre-bulletted'><a href='http://identi.ca/group/osbridge' title='!osbridge on identi.ca' class='identica chicklet'>identi.ca</a></li>
                <li class='pre-bulletted'><a href='http://www.linkedin.com/groups?home=&amp;gid=1853451' title='Open Source Bridge on LinkedIn' class='linkedin chicklet'>LinkedIn</a></li>
                <li class='pre-bulletted'><a href='http://lanyrd.com/2013/open-source-bridge/' title='Open Source Bridge on Lanyrd'>Lanyrd</a></li>
@@ -52,7 +54,7 @@ Template Name: Front Page
             <div id='frontpage_cfp_callout'>
                <h3>Call for presentation proposals is open!</h3>
                <p>
-                    We are accepting your proposals through March 9th.
+                    We are accepting your proposals through March 23rd.
                     <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
                </p>
             </div>
