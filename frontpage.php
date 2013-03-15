@@ -43,9 +43,13 @@ Template Name: Front Page
               <ul>
                 <li><a href='http://opensourcebridge.org/sponsors/sponsorship/'>Interested in becoming a sponsor?</a></li>
               </ul>
-              <h4>Advocate</h4>
+              <h4>Advocates</h4>
               <ul>
                 <li><a href='http://rentrak.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2013/03/rentrak.170.png' alt='Rentrak' /></a></li>
+              </ul>
+              <h4>Friends</h4>
+              <ul>
+                <li><a href='http://elevatedcode.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2013/03/ElevatedCode.png' alt='Elevated Code' /></a></li>
               </ul>
               <h4>Hosting</h4>
               <ul>
