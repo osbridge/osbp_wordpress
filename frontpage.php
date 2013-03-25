@@ -58,7 +58,7 @@ Template Name: Front Page
             </div>
          </div>
          <div id="frontpage_content">
-            <!-- ACCEPTING PROPOSALS: -->
+            <!-- ACCEPTING PROPOSALS:
             <div id='frontpage_cfp_callout'>
                <h3>Call for presentation proposals is open!</h3>
                <p>
@@ -66,6 +66,7 @@ Template Name: Front Page
                     <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
                </p>
             </div>
+            -->
 
             <!-- CONFERENCE IS HERE:
             <div id='frontpage_cfp_callout'>
@@ -81,11 +82,10 @@ Template Name: Front Page
 
             <!-- CONFERENCE IS OVER: -->
             <div id='frontpage_register_callout'>
-                <h3>Registration for 2013 is now open!</h3>
+                <h3>Registration for 2013 is open!</h3>
                 <p>
-                    Buy your ticket today and save!<br />
-                    Want to know how 2012 went? Read our <a href="http://opensourcebridge.org/blog/2012/07/thank-you/" style="text-decoration: underline; color: #fff;">post-conference update</a><br />
-                    Want to help us plan the next conference? <a href='http://groups.google.com/group/osbridge' style="text-decoration: underline; color: #fff;">Join our planning group!</a>
+                    Tickets are only $225 through March 31st!<br />
+                    Want to help us plan the conference? <a href='http://groups.google.com/group/osbridge' style="text-decoration: underline; color: #fff;">Join our planning group!</a>
 
                     <a href='http://osbridge.eventbrite.com/' class='button'>Register Now</a>
                 </p>
