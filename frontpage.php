@@ -84,7 +84,7 @@ Template Name: Front Page
             <div id='frontpage_register_callout'>
                 <h3>Registration for 2013 is open!</h3>
                 <p>
-                    Tickets are only $225 through April 3rd!<br />
+                    Tickets are only $300!<br />
                     Want to help us plan the conference? <a href='http://groups.google.com/group/osbridge' style="text-decoration: underline; color: #fff;">Join our planning group!</a>
 
                     <a href='http://osbridge.eventbrite.com/' class='button'>Register Now</a>
