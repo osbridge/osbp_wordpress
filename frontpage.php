@@ -13,7 +13,6 @@ Template Name: Front Page
            </div>
          <?php endif; ?>
             
-         </div>
          <?php if ( is_active_sidebar( 'sponsors' ) ) : ?>
            <div id="frontpage_callouts">
               <div id='sponsors-callout'>
