@@ -16,7 +16,7 @@ Template Name: Front Page
          </div>
          <?php if ( is_active_sidebar( 'sponsors' ) ) : ?>
            <div id="frontpage_callouts">
-              <div id='sponsors-callout' class='sidebar'>
+              <div id='sponsors-callout'>
                 <?php dynamic_sidebar( 'sponsors' ); ?>
               </div>
            </div>
