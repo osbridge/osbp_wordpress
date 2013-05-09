@@ -7,56 +7,20 @@ Template Name: Front Page
    <div id="frontpage_info">
       <div class='inner_container' style="z-index:10">
          <h2>Connecting developers across projects, languages, and backgrounds.</h2>
-         <div id="frontpage_sidebar">
-            <p id="conference-summary">
-               <strong>Open Source Bridge</strong> is a conference for developers working with open source technologies and for people interested in learning the open source way.
-            </p>
-            <ul class='soc'>
-               <li class='pre-bulletted'>
-                 <a href="https://twitter.com/osbridge" class="twitter-follow-button" data-show-count="false">Follow @osbridge</a>
-                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-               </li>
-               <li class='pre-bulletted'>
-                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fosbridge&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
-               </li>
-               <li class='pre-bulletted'><a href='http://identi.ca/group/osbridge' title='!osbridge on identi.ca' class='identica chicklet'>identi.ca</a></li>
-               <li class='pre-bulletted'><a href='http://www.linkedin.com/groups?home=&amp;gid=1853451' title='Open Source Bridge on LinkedIn' class='linkedin chicklet'>LinkedIn</a></li>
-               <li class='pre-bulletted'><a href='http://lanyrd.com/2013/open-source-bridge/' title='Open Source Bridge on Lanyrd'>Lanyrd</a></li>
-               <!-- <li class='pre-bulletted'><a href='http://dplr.it/osbridge09' class='dopplr chicklet'>Add trip to Dopplr</a></li> -->
-            </ul>
-            <ul>
-               <li class='pre-bulletted'><a href='http://opensourcebridge.org/proposals.atom' class='chicklet rss'>Proposals feed</a></li>
-               <li class='pre-bulletted'>
-                  <a href='http://opensourcebridge.org/feed/' title='Open Source Bridge Blog Feed' class='rss chicklet'>Blog feed</a>
-                  <p>
-                     <a href="http://feeds2.feedburner.com/OpenSourceBridge" class='feedburner'>
-                        <img src="http://feeds2.feedburner.com/~fc/OpenSourceBridge.gif?bg=FFFFFF&amp;fg=116DB6&amp;anim=0" height="26" width="88" style="border:0" alt="" />
-                     </a>
-                  </p>
-               </li>
-            </ul>
+         <?php if ( is_active_sidebar( 'frontpage' ) ) : ?>
+           <div id="frontpage_sidebar">
+              <?php dynamic_sidebar( 'frontpage' ); ?>
+           </div>
+         <?php endif; ?>
             
          </div>
-         <div id="frontpage_callouts">
-            <div id='sponsors-callout'>
-              <h3><a href="/sponsors/2013/">2013 Sponsors</a></h3>
-              <ul>
-                <li><a href='http://opensourcebridge.org/sponsors/sponsorship/'>Interested in becoming a sponsor?</a></li>
-              </ul>
-              <h4>Advocates</h4>
-              <ul>
-                <li><a href='http://rentrak.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2013/03/rentrak.170.png' alt='Rentrak' /></a></li>
-              </ul>
-              <h4>Friends</h4>
-              <ul>
-                <li><a href='http://elevatedcode.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2013/03/ElevatedCode.png' alt='Elevated Code' /></a></li>
-              </ul>
-              <h4>Hosting</h4>
-              <ul>
-                <li><a href='http://networkredux.com/'><img src='http://opensourcebridge.org/wp-content/uploads/2012/06/networkredux.170.png' alt='Network Redux' /></a></li>
-              </ul>
-            </div>
-         </div>
+         <?php if ( is_active_sidebar( 'sponsors' ) ) : ?>
+           <div id="frontpage_callouts">
+              <div id='sponsors-callout' class='sidebar'>
+                <?php dynamic_sidebar( 'sponsors' ); ?>
+              </div>
+           </div>
+         <?php endif; ?>
          <div id="frontpage_content">
             <!-- ACCEPTING PROPOSALS:
             <div id='frontpage_cfp_callout'>

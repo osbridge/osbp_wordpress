@@ -514,4 +514,37 @@ add_filter( 'archive_meta', 'convert_chars' );
 add_filter( 'archive_meta', 'wpautop' );
 
 // Remember: the Sandbox is for play.
+
+add_action( 'widgets_init', 'my_register_sidebars' );
+
+function my_register_sidebars() {
+
+	register_sidebar(
+		array(
+			'id' => 'sponsors',
+			'name' => __( 'Sponsors' ),
+			'description' => __( 'Sponsors sidebar' ),
+			'before_widget' => '<div id="%1$s" class="widget %2$s">',
+			'after_widget' => '</div>',
+			'before_title' => '<h4 class="widget-title">',
+			'after_title' => '</h4>'
+		)
+	);
+
+	register_sidebar(
+		array(
+			'id' => 'frontpage',
+			'name' => __( 'Frontpage' ),
+			'description' => __( 'Frontpage sidebar' ),
+			'before_widget' => '<div id="%1$s" class="widget %2$s">',
+			'after_widget' => '</div>',
+			'before_title' => '<h4 class="widget-title">',
+			'after_title' => '</h4>'
+		)
+	);
+
+	/* Repeat register_sidebar() code for additional sidebars. */
+}
+
+
 ?>
