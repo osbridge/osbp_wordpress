@@ -155,18 +155,26 @@ div.sidebar input#s {
 
 /* @group Front Page */
 
+#frontpage_info {
+  /* background: orange;*/
+}
+
 #frontpage_info strong {
 	font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
 #frontpage_info h2 {
-	color: #222;
+	color: #fff;
 	font-size: 1.65em;
+  display: none;
 }
 
 #frontpage_sidebar {
 	width: 225px;
 	float: left;
+  background: url(i/5-Years-of-Open-Source-Citizenship.png) no-repeat;
+  padding-top: 160px;
+  margin-top: -45px;
 }
 
 #conference-summary {
@@ -178,6 +186,7 @@ div.sidebar input#s {
 	padding: 15px;
 	width: 510px;
 	margin-left: 240px;
+  margin-top: 20px
 }
 
 #frontpage_content h4 {
@@ -216,7 +225,7 @@ table.sponsors td {
 }
 
 #sponsors-callout {
-	margin: 0 0 2em;
+	margin: 120px 0 2em;
 }
 
 #sponsors-callout ul {
@@ -235,7 +244,7 @@ table.sponsors td {
 	margin-bottom: 1.5em;
 }
 #frontpage_register_callout {
-	background: #4DA694;
+	background: #3e3f9d;
 }
 #frontpage_cfp_callout {
 	background: #A05CDA;
@@ -259,7 +268,7 @@ table.sponsors td {
 	text-align: center;
 	font-weight: bold;
 	padding: .5em;
-	background: #3E8577;
+	background: #343c9b;
 	color: #fff;
 	text-decoration: none;
 	width: 100px;
@@ -272,7 +281,7 @@ table.sponsors td {
 #frontpage_register_callout a.button:link,
 #frontpage_register_callout a.button:visited,
 #frontpage_register_callout a.button:active {
-	background: #3E8577;
+	background: #3e68ad;
 }
 #frontpage_cfp_callout a.button,
 #frontpage_cfp_callout a.button:link,
