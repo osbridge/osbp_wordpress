@@ -21,38 +21,6 @@ Template Name: Front Page
            </div>
          <?php endif; ?>
          <div id="frontpage_content">
-            <!-- ACCEPTING PROPOSALS:
-            <div id='frontpage_cfp_callout'>
-               <h3>Call for presentation proposals is open!</h3>
-               <p>
-                    We are accepting your proposals through March 23rd.
-                    <a href='http://opensourcebridge.org/call-for-proposals/' class='button'>Submit Now</a>
-               </p>
-            </div>
-            -->
-
-            <!-- CONFERENCE IS HERE:
-            <div id='frontpage_cfp_callout'>
-               <h3>The conference is here!</h3>
-               <p>
-                  Check out the <a href='http://opensourcebridge.org/schedule' style="color: #fff; text-decoration: underline">schedule</a>, follow us on <a href="http://twitter.com/osbridge" style="color: #fff; text-decoration: underline">twitter</a> 
-                  for announcements and updates, or stop by the <a href="http://opensourcebridge.org/2011/wiki/Hacker_Lounge" style="color: #fff; text-decoration: underline">Hacker Lounge</a> anytime!
-                  
-                  <a href='http://opensourcebridge.org/schedule/' class='button'>View Schedule</a>
-               </p>
-            </div>
-            -->
-
-            <!-- CONFERENCE IS OVER: -->
-            <div id='frontpage_register_callout'>
-                <h3>Registration for 2013 is open!</h3>
-                <p>
-                    Tickets are only $300!<br />
-                    Want to help us plan the conference? <a href='http://groups.google.com/group/osbridge' style="text-decoration: underline; color: #fff;">Join our planning group!</a>
-
-                    <a href='http://osbridge.eventbrite.com/' class='button'>Register Now</a>
-                </p>
-            </div>
             <?php the_content(); ?>
          </div>
       </div>
