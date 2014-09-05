@@ -1,7 +1,7 @@
 # Settings
 user = 'bridgepdx'
 host = 'opensourcebridge.org'
-path = '/var/www/bridgepdx_wordpress/wp-content/themes/osbp_wordpress_theme_v3/'
+path = '/var/www/wordpress/wp-content/themes/osbp_wordpress_theme_v3/'
 
 # Derived settings
 remote = "#{user}@#{host}:#{path}"
