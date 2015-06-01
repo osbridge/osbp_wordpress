@@ -32,7 +32,6 @@
    <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url') ?>" />
 <?php wp_head() // For plugins ?>
    <link rel="alternate" type="application/rss+xml" href="<?php bloginfo('rss2_url') ?>" title="<?php printf( __( '%s latest posts', 'sandbox' ), wp_specialchars( get_bloginfo('name'), 1 ) ) ?>" />
-   <link rel="alternate" type="application/rss+xml" href="<?php bloginfo('comments_rss2_url') ?>" title="<?php printf( __( '%s latest comments', 'sandbox' ), wp_specialchars( get_bloginfo('name'), 1 ) ) ?>" />
    <link rel="alternate" type="application/atom+xml" href="/proposals.atom" title="Open Source Bridge Proposal Submissions" />
    <link rel="pingback" href="<?php bloginfo('pingback_url') ?>" />
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
