@@ -10,8 +10,8 @@ To make changes to the WordPress theme:
 
 1. Clone this repository.
 2. Make changes to the files, e.g. `frontpage.php`.
-3. Deploy them to the production server by running `rake deploy`.
-4. Optionally login to WordPress on the production server and use "Delete cache" to make it use the changes immediately.
+3. Deploy them to the production server by running `rake deploy`. (You'll want to change your username at the top of the Rakefile.)
+4. Optionally login to WordPress on the production server and use Performance -> Page Cache -> "empty cache" to make it use the changes immediately.
 5. Commit them back to this repository and push the changes, else submit a github pull request.
 
 Common Styles

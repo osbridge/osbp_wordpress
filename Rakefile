@@ -1,12 +1,12 @@
 # Settings
-user = 'bridgepdx'
+user = 'swenson'
 host = 'opensourcebridge.org'
-path = '/var/www/bridgepdx_wordpress/wp-content/themes/osbp_wordpress_theme_v3/'
+path = '/var/www/wordpress/wp-content/themes/osbp_wordpress_theme_v3/'
 
 # Derived settings
 remote = "#{user}@#{host}:#{path}"
 # rsync: (v)erbose e(x)clude-other-devices (r)ecursive preserve-sym(l)inks
-rsync = 'rsync --checksum -vxrl --progress --exclude=.* --exclude=*~ --exclude=*.swp --exclude=Rakefile --exclude=my_common_styles_url.txt* --exclude=shared_fragments'
+rsync = 'rsync -e "ssh" --rsync-path="sudo -u wordpress rsync" --checksum -vxrl --progress --exclude=.* --exclude=*~ --exclude=*.swp --exclude=Rakefile --exclude=my_common_styles_url.txt* --exclude=shared_fragments'
 
 desc "Show help"
 task :help do
