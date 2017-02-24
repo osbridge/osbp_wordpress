@@ -9,7 +9,7 @@
    d8888b.  d8888b.  d888888b  d8888b.   d888b   d88888b
    88  `8D  88  `8D    `88'    88  `8D  88' Y8b  88'
    88oooY'  88oobY'     88     88   88  88       88ooooo
-   88   b.  88`8b       88     88   88  88  ooo  88     
+   88   b.  88`8b       88     88   88  88  ooo  88
    88   8D  88 `88.    .88.    88  .8D  88.   P  88.
    Y8888P'  88   YD  Y888888P  Y8888D'   Y888P   Y88888P
 
@@ -20,7 +20,7 @@
 
 -->
 <head profile="http://gmpg.org/xfn/11">
-   <title><?php wp_title( '/', true, 'right' ); ?>Open Source Bridge: The conference for open source citizens / June 21-24, 2016 / Portland, OR</title>
+   <title><?php wp_title( '/', true, 'right' ); ?>Open Source Bridge: The conference for open source citizens / June 20-23, 2017 / Portland, OR</title>
    <meta http-equiv="content-type" content="<?php bloginfo('html_type') ?>; charset=<?php bloginfo('charset') ?>" />
    <link rel="stylesheet" type="text/css" href="<?php
      $my_common_styles_url_file = dirname(__FILE__) . "/my_common_styles_url.txt";
