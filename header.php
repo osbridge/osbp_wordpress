@@ -15,6 +15,7 @@
 
    =====================================================
    We <3 people who view our site's source code.
+   Use the code 'osbhtml' to get 10% off on registration.
    =====================================================
 
 -->
