@@ -15,12 +15,11 @@
 
    =====================================================
    We <3 people who view our site's source code.
-   Use the code 'osbhtml' to get 10% off on registration.
    =====================================================
 
 -->
 <head profile="http://gmpg.org/xfn/11">
-   <title><?php wp_title( '/', true, 'right' ); ?>Open Source Bridge: The conference for open source citizens / June 20-23, 2017 / Portland, OR</title>
+   <title><?php wp_title( '/', true, 'right' ); ?>Open Source Bridge: The conference for open source citizens / June 29, 2018 / Portland, OR</title>
    <meta http-equiv="content-type" content="<?php bloginfo('html_type') ?>; charset=<?php bloginfo('charset') ?>" />
    <link rel="stylesheet" type="text/css" href="<?php
      $my_common_styles_url_file = dirname(__FILE__) . "/my_common_styles_url.txt";
